@@ -1,0 +1,216 @@
+{
+  "Version": "1.2.0",
+  "GeneratedAt": "2025-07-08T14:25:06.3079859+05:00",
+  "Files": [
+    {
+      "RelativePath": "ManifestGenerator.deps.json",
+      "Size": 443,
+      "Checksum": "DE0C60CFF583476B95AEC9941F7362EFABEE9A5149E13DD6A308CA76EEF3B1D9",
+      "LastModified": "2025-07-08T12:53:45.1304661+05:00"
+    },
+    {
+      "RelativePath": "ManifestGenerator.dll",
+      "Size": 12288,
+      "Checksum": "5CE2E6B6094C96ECEBD45A92687CD59EF2A2ABC55A95CEDA91FDB8B110EF9A65",
+      "LastModified": "2025-07-08T12:53:44.9452816+05:00"
+    },
+    {
+      "RelativePath": "ManifestGenerator.runtimeconfig.json",
+      "Size": 268,
+      "Checksum": "162D81F468BEC570EC15E527433F4DE5D5729FFE338AB79B22671F38760D34BD",
+      "LastModified": "2025-07-08T12:53:45.1354647+05:00"
+    },
+    {
+      "RelativePath": "Microsoft.Data.Sqlite.dll",
+      "Size": 176680,
+      "Checksum": "8FCC96F6409E1BFC95ADA900F008FB39DDDDA54968D6051793F8DAF798A7FC97",
+      "LastModified": "2025-05-17T05:54:36+05:00"
+    },
+    {
+      "RelativePath": "secure.db",
+      "Size": 12288,
+      "Checksum": "30C85528F6E4C33908B960BBAFC2A2CC4A0DD1AE48BB57E93545F7005C4A879B",
+      "LastModified": "2025-07-08T14:20:39.801118+05:00"
+    },
+    {
+      "RelativePath": "SQLiteClipher.deps.json",
+      "Size": 8385,
+      "Checksum": "1CC6AA543C4C850E058BB4831ED0DC6796546569DB8108E424BD94830CB14D5C",
+      "LastModified": "2025-07-08T14:20:33.8327202+05:00"
+    },
+    {
+      "RelativePath": "SQLiteClipher.dll",
+      "Size": 26624,
+      "Checksum": "16E9583E39DCA16A7FEAB0A925403B643F9A5DE359DF55688ACC71A47F9D3888",
+      "LastModified": "2025-07-08T14:20:33.2608042+05:00"
+    },
+    {
+      "RelativePath": "SQLiteClipher.exe",
+      "Size": 138752,
+      "Checksum": "35F51376C73DE9D87DF190FFEE54A0053D46DC0713D19A535814A3A31190E846",
+      "LastModified": "2025-07-08T14:20:33.2833742+05:00"
+    },
+    {
+      "RelativePath": "SQLiteClipher.runtimeconfig.json",
+      "Size": 443,
+      "Checksum": "7E79AF92820E50910B90F1CADE2728F45987393F24B50E384DC225D9773B7194",
+      "LastModified": "2025-07-08T14:20:34.0511256+05:00"
+    },
+    {
+      "RelativePath": "SQLitePCLRaw.batteries_v2.dll",
+      "Size": 5120,
+      "Checksum": "94AC800C6B93AE50A025F247547781DEBE18391110667C5E242F51D8AC188FFB",
+      "LastModified": "2025-03-08T00:46:32+05:00"
+    },
+    {
+      "RelativePath": "SQLitePCLRaw.core.dll",
+      "Size": 51200,
+      "Checksum": "3D2ED8E186F124F988EBDB45D0354185B424357BE2433BBA0033AB9EC31BD25B",
+      "LastModified": "2025-03-08T00:45:06+05:00"
+    },
+    {
+      "RelativePath": "SQLitePCLRaw.provider.e_sqlite3.dll",
+      "Size": 36864,
+      "Checksum": "60AB6CFA2F3CC907BCEE4D0C1264D5C36DE0A3DA701DBEBF5EFC9D542CE69FA2",
+      "LastModified": "2025-03-08T00:45:20+05:00"
+    },
+    {
+      "RelativePath": "runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a",
+      "Size": 1209768,
+      "Checksum": "1A5CF9D2D166EA52C26B57457F85DAA3834E5BB8499C5E489579711970A4F646",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-arm/native/libe_sqlite3.so",
+      "Size": 893360,
+      "Checksum": "DE29AD722ADC039F3A3A08FE222ED2BB46948A4ACEFEAEDA86FC57D8AB7EDC24",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-arm64/native/libe_sqlite3.so",
+      "Size": 1374696,
+      "Checksum": "3D73C00244173F89BD264D9605E7753FFEF8336F487B4FF059EF027261C5D623",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-armel/native/libe_sqlite3.so",
+      "Size": 1257916,
+      "Checksum": "83863B2C9DCE8B1E4DA72A3818025DEE6506653149DAAD14C9BB81B5293BABA1",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-mips64/native/libe_sqlite3.so",
+      "Size": 1594136,
+      "Checksum": "31AB04E827923A286649FB060B05CB5020E393A7ABE542CEADC60735DF090F93",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-musl-arm/native/libe_sqlite3.so",
+      "Size": 1219860,
+      "Checksum": "635AFD4379650F7BC2599AB2B6606AD6BAC44FEFC0F2C09018D20D0E1F828593",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-musl-arm64/native/libe_sqlite3.so",
+      "Size": 1335840,
+      "Checksum": "18468C67541AE7CACF359968FB7427D57978CF0A903FFB42708AAE6360D9782C",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-musl-riscv64/native/libe_sqlite3.so",
+      "Size": 941944,
+      "Checksum": "06A2FACEB613B95E291CBE84A3EC2550E1AE69FFE65B9783FCF557888F2995C1",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-musl-s390x/native/libe_sqlite3.so",
+      "Size": 1554416,
+      "Checksum": "02A3D327C3746C0E9883E4D2203D5E5311C3D98D3755DDD3D7670BECF7CD4F8D",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-musl-x64/native/libe_sqlite3.so",
+      "Size": 1323128,
+      "Checksum": "24868846AA49E7D030908D44051A7ECEC0E1315524E92BC21A5F6DDA816790F6",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-ppc64le/native/libe_sqlite3.so",
+      "Size": 1722360,
+      "Checksum": "CCFFEC6414FB012C4E52326172BA50006A845F67962D8612CEC48790ACAA3D13",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-riscv64/native/libe_sqlite3.so",
+      "Size": 955392,
+      "Checksum": "A10EE61703CC90A6069B919F39E12B95BEE072210BCF82CB49C119ECB61485F0",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-s390x/native/libe_sqlite3.so",
+      "Size": 1504352,
+      "Checksum": "547B6553A9AD65B214366B4372637B772265388A8CE0D7D3EB75995783A69611",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-x64/native/libe_sqlite3.so",
+      "Size": 1348440,
+      "Checksum": "965400C23FDE16A19D000C1C6062AF577F048410F85253A793F569D5520DAAAD",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/linux-x86/native/libe_sqlite3.so",
+      "Size": 1416232,
+      "Checksum": "A9382CC28BCF354D15F0B6D392DB0DBC9B3DCCA1756F11B18D209DC357BC5F66",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib",
+      "Size": 1569856,
+      "Checksum": "2D1B982EADAAE830ABDC9EDBA3CCBE77036342B19AE00117B96136A6E122D84A",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/maccatalyst-x64/native/libe_sqlite3.dylib",
+      "Size": 1624336,
+      "Checksum": "2BDB87F40497AA0D744835AE43F948586FF6E8DF861C9FBF7BE29B7F3FED6B39",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/osx-arm64/native/libe_sqlite3.dylib",
+      "Size": 1554624,
+      "Checksum": "BEA557311C6EF51EB6A69834DBD7A4E1EBD9D3654790CF311D942BF6A6ADE0A2",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/osx-x64/native/libe_sqlite3.dylib",
+      "Size": 1591680,
+      "Checksum": "858192F4089B1E643A8B972100E71E17FB83DEA0C352D9F161684F6DCB69034A",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/win-arm/native/e_sqlite3.dll",
+      "Size": 1282560,
+      "Checksum": "2FF400C5BBFD7D08B393ECCDC9E0065B525F7FE5FF790B17779D3892BB1DE66D",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/win-arm64/native/e_sqlite3.dll",
+      "Size": 1592320,
+      "Checksum": "D28FF71188B00E30489BB7BEF15DD2EBC2FDED92FD9CD8AF97CE222D5CFA4C61",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/win-x64/native/e_sqlite3.dll",
+      "Size": 1795072,
+      "Checksum": "4DCBB2AD197D893355EFA004257E048F2C850FEB1078158F4BAAB0F7B53AC45F",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    },
+    {
+      "RelativePath": "runtimes/win-x86/native/e_sqlite3.dll",
+      "Size": 1453568,
+      "Checksum": "D067D9E40D4BC93DF3D142E19CD3A92EBAE865D245E7335020478929489D5C8F",
+      "LastModified": "2025-03-08T00:39:30+05:00"
+    }
+  ]
+}
