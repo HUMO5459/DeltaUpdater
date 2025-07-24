@@ -12,7 +12,7 @@ namespace DeltaUpdater.Models
     {
         public string RelativePath { get; set; }
         public FileChangeType ChangeType { get; set; }
-        public FileInfo LocalFile { get; set; }
-        public FileInfo RemoteFile { get; set; }
+        public FileInfoModel LocalFile { get; set; }
+        public FileInfoModel RemoteFile { get; set; }
     }
 }

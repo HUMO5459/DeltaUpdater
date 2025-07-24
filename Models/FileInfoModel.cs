@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DeltaUpdater.Models
 {
-    public class FileInfo
+    public class FileInfoModel
     {
         public string RelativePath { get; set; }
         public long Size { get; set; }

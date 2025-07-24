@@ -504,7 +504,7 @@ namespace DeltaUpdater
             {
                 Version = GetCurrentVersion(),
                 GeneratedAt = DateTime.Now,
-                Files = new List<FileInfo>()
+                Files = new List<FileInfoModel>()
             };
 
             if (Directory.Exists(localAppPath))
@@ -515,7 +515,7 @@ namespace DeltaUpdater
             return manifest;
         }
 
-        private void ScanDirectory(string directoryPath, string basePath, List<FileInfo> fileList)
+        private void ScanDirectory(string directoryPath, string basePath, List<FileInfoModel> fileList)
         {
             try
             {
@@ -526,9 +526,9 @@ namespace DeltaUpdater
                     if (ShouldSkipFile(relativePath))
                         continue;
 
-                    var fileInfo = new FileInfo
+                    var fileInfo = new Models.FileInfoModel
                     {
-                        RelativePath = relativeSystem.IO.Path.Replace('\\', '/'),
+                        RelativePath = relativePath.Replace('\\', '/'),
                         Size = new System.IO.FileInfo(filePath).Length,
                         Checksum = CalculateFileChecksum(filePath),
                         LastModified = File.GetLastWriteTime(filePath)

@@ -10,6 +10,6 @@ namespace DeltaUpdater.Models
     {
         public string Version { get; set; }
         public DateTime GeneratedAt { get; set; }
-        public List<FileInfo> Files { get; set; } = new List<FileInfo>();
+        public List<FileInfoModel> Files { get; set; } = new List<FileInfoModel>();
     }
 }
